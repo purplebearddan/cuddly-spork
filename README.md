@@ -90,10 +90,10 @@ I'm a global variable
 - [Functions](https://www.w3schools.com/js/js_functions.asp)
 - [JavaScript Arrow Function](https://www.w3schools.com/js/js_arrow_function.asp)
 - [Scope](https://www.w3schools.com/js/js_scope.asp)
-- [Callback Functions](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
 
 ### MDN Docs
 
 - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
 - [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 - [Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
+- [Callback Functions](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
