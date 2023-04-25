@@ -6,6 +6,7 @@
 // 
 ((a) => { console.log('input iife:', a) })("pop");
 
+// you need to include ';' at the
 const varName = "Hello";
 
 (function () {
